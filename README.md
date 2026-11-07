@@ -4,7 +4,7 @@
   <h3>Business Operations | Digital Marketing | Data Analysis</h3>
   <p>Tangerang, Banten, Indonesia</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nasywanaatania)
   [![GitHub](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 </div>
 
