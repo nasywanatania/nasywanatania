@@ -1,7 +1,6 @@
  <div align="center">
   <img src="./banner.svg" width="100%" alt="Nasywa Natania Paramitha"/>
 
-  <h1>Nasywa Natania Paramitha</h1>
   <h3>Business Operations | Digital Marketing | Data Analysis</h3>
   <p>Tangerang, Banten, Indonesia</p>
 
