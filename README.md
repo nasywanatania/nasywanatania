@@ -17,13 +17,11 @@
 
 <br>
 
-## About Me
-
-I am a Business Operations and Digital Marketing professional with hands-on experience in managing food delivery merchant platforms, executing digital marketing campaigns, monitoring sales performance, and handling business administration.
+Business Operations and Digital Marketing professional with hands-on experience in managing food delivery merchant platforms, executing digital marketing campaigns, monitoring sales performance, and handling business administration.
 
 Experienced in managing GoFood, GrabFood, and ShopeeFood merchant accounts, analyzing sales performance, and optimizing promotional strategies to improve online business growth. Proficient in Microsoft Excel, including Pivot Tables, SUMIFS, VLOOKUP, and sales performance reporting.
 
-I combine analytical thinking, digital marketing execution, and operational management to support business growth and data-driven decision-making.
+Combine analytical thinking, digital marketing execution, and operational management to support business growth and data-driven decision-making.
 
 ## Currently
 
