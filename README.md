@@ -27,7 +27,7 @@ Familiar with platform-based promotional systems, merchant optimization strategi
 
 Accustomed to using Google Sheets, Microsoft Excel, and analytical tools to process business data, monitor GMV, evaluate transactions, identify sales trends, and prepare performance reports. Also experienced in external partner negotiation, business collaboration, customer relationship management, and coordinating operational activities to achieve business objectives.
 
-Combining analytical thinking, digital marketing execution, and operational management to support business growth and data-driven decision-making.
+Combining analytical thinking, digital marketing execution, and operational management to support business growth and data driven decision making.
 
 </div>
 
