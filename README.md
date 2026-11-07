@@ -141,4 +141,4 @@ Always open to learning, collaborating, and creating meaningful business value t
 <div align="center">
   <br>
   <i>"Turning data into insights, strategies into action, and ideas into business growth."</i>
-  <
+
