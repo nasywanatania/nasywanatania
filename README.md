@@ -1,18 +1,21 @@
- <div align="center">
-  <img src="./banner.svg" width="100%" alt="Nasywa Natania Paramitha"/>
+<div align="center">
 
-  <h3>E-Commerce | Data Analysis | Digital Marketing | Business Operations</h3>
-  <p>Tangerang, Banten, Indonesia</p>
+<img src="./banner.svg" width="100%" alt="Nasywa Natania Paramitha"/>
 
-  <a href="https://www.linkedin.com/in/nasywanaatania">
-    <img src="https://img.shields.io/badge/LinkedIn-nasywanaatania-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/nasywanaatania/">
-    <img src="https://img.shields.io/badge/Instagram-nasywanaatania-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/nasywanatania">
-    <img src="https://img.shields.io/github/followers/nasywanatania?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white" alt="GitHub Followers"/>
-  </a>
+<h3>୨୧ E-Commerce | Data Analysis | Digital Marketing | Business Operations ୨୧</h3>
+
+<p>♡ Tangerang, Banten, Indonesia ♡</p>
+
+<a href="https://www.linkedin.com/in/nasywanaatania">
+  <img src="https://img.shields.io/badge/LinkedIn-nasywanaatania-D87093?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/nasywanaatania/">
+  <img src="https://img.shields.io/badge/Instagram-nasywanaatania-E8A0BF?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/nasywanatania">
+  <img src="https://img.shields.io/github/followers/nasywanatania?style=flat-square&label=Followers&color=C77D9B&logo=github&logoColor=white" alt="GitHub Followers"/>
+</a>
+
 </div>
 
 <br>
@@ -31,88 +34,74 @@ Combining analytical thinking, digital marketing execution, and operational mana
 
 </div>
 
----
+<div align="center">
 
-## Currently
+୨୧ ──────────────── 🌸 ──────────────── ୨୧
+
+</div>
+
+## 🌷 Currently
 
 - Managing multi-platform F&B merchant operations at **RM Sari Rasa**, including GoFood, GrabFood, and ShopeeFood.
 - Co-founding **Open Trip Adventure Salak 2**, focusing on business administration, customer relations, reservations, and operational management.
 - Exploring opportunities in Digital Marketing, Business Development, E-Commerce, and Business Operations.
 - Continuously developing skills in data analysis, sales performance monitoring, and digital business optimization.
 
-## Core Expertise
+<div align="center">
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
-
-<div style="flex: 1; min-width: 220px;">
-
-**Digital Marketing**
-
-- Digital Campaign Management
-- Online Promotions & Discount Strategies
-- In-App Advertising
-- Merchant Optimization
-- Marketing Performance Monitoring
+✿ ───────────────────────── ✿
 
 </div>
 
-<div style="flex: 1; min-width: 220px;">
+## 🌸 Core Expertise
 
-**Business Operations**
+**♡ Digital Marketing**
 
-- Merchant Management
-- F&B Business Operations
-- Multi-Outlet Management
-- Product Availability Monitoring
-- Customer Relationship Management
+Digital Campaign Management, Online Promotions & Discount Strategies, In-App Advertising, Merchant Optimization, Marketing Performance Monitoring.
 
-</div>
+**♡ Business Operations**
 
-<div style="flex: 1; min-width: 220px;">
+Merchant Management, F&B Business Operations, Multi-Outlet Management, Product Availability Monitoring, Customer Relationship Management.
 
-**Data Analysis**
+**♡ Data Analysis**
 
-- Sales Performance Analysis
-- GMV & Transaction Monitoring
-- Sales Trend Analysis
-- Business Reporting
-- Data Visualization
+Sales Performance Analysis, GMV & Transaction Monitoring, Sales Trend Analysis, Business Reporting, Data Visualization.
 
-</div>
+**♡ Business Administration**
 
-<div style="flex: 1; min-width: 220px;">
+Data Entry & Data Management, Financial Administration, Bookkeeping & Reconciliation, Document Management, Operational Reporting.
 
-**Business Administration**
+<div align="center">
 
-- Data Entry & Data Management
-- Financial Administration
-- Bookkeeping & Reconciliation
-- Document Management
-- Operational Reporting
+୨୧ ──────────────── 🌷 ──────────────── ୨୧
 
 </div>
 
-</div>
+## 🌷 Technical Toolbox
 
-## Technical Toolbox
-
-**Data & Productivity**
+**♡ Data & Productivity**
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
 
-**Business & Digital Platforms**
+**♡ Business & Digital Platforms**
 
 ![GrabMerchant](https://img.shields.io/badge/GrabMerchant-00B14F?style=flat-square&logo=grab&logoColor=white)
 ![GoBiz](https://img.shields.io/badge/GoBiz-00AA5B?style=flat-square)
 ![Shopee Partner](https://img.shields.io/badge/Shopee_Partner-EE4D2D?style=flat-square&logo=shopee&logoColor=white)
 
-**Data & Mapping**
+**♡ Data & Mapping**
 
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 
-## Education
+<div align="center">
+
+✿ ───────────────────────── ✿
+
+</div>
+
+## 🌸 Education
 
 **Bachelor of Sociology (S.Sos.)**
 
@@ -122,86 +111,58 @@ April 2020 – June 2025
 
 GPA: **3.80 / 4.00**
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+**♡ Organizational Activities**
 
-<div style="flex: 1; min-width: 220px;">
+Public Relations Committee — Department Orientation (2021), Practicum Secretary (2023), Teaching Assistant (2023), Community Service Program (KKN) Secretary (2023).
 
-**Organizational Activities**
+**♡ Relevant Coursework**
 
-- Public Relations Committee — Department Orientation (2021)
-- Practicum Secretary (2023)
-- Teaching Assistant (2023)
-- Community Service Program (KKN) Secretary (2023)
+Social Statistics, Quantitative Research Methods, Organizational Sociology, Industrial Sociology, Sociology of Communication, Community Development.
 
-</div>
+<div align="center">
 
-<div style="flex: 1; min-width: 220px;">
-
-**Relevant Coursework**
-
-- Social Statistics
-- Quantitative Research Methods
-- Organizational Sociology
-- Industrial Sociology
-- Sociology of Communication
-- Community Development
+୨୧ ──────────────── 🌸 ──────────────── ୨୧
 
 </div>
 
-</div>
+## 🌷 Skills & Competencies
 
-## Skills & Competencies
+**♡ Technical Skills**
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+Microsoft Excel (Certified), Pivot Tables, SUMIFS, VLOOKUP, Sales Performance Analysis, Digital Marketing Campaign Management, Online Merchant Platform Management, Data Processing & Reporting, Financial Administration, QGIS.
 
-<div style="flex: 1; min-width: 220px;">
+**♡ Professional Skills**
 
-**Technical Skills**
+Analytical Thinking, Attention to Detail, Data-Driven Decision Making, Problem Solving, Target-Oriented, Time Management, Communication, Teamwork.
 
-- Microsoft Excel (Certified)
-- Pivot Tables, SUMIFS, VLOOKUP
-- Sales Performance Analysis
-- Digital Marketing Campaign Management
-- Online Merchant Platform Management
-- Data Processing & Reporting
-- Financial Administration
-- QGIS
+<div align="center">
+
+✿ ───────────────────────── ✿
 
 </div>
 
-<div style="flex: 1; min-width: 220px;">
-
-**Professional Skills**
-
-- Analytical Thinking
-- Attention to Detail
-- Data-Driven Decision Making
-- Problem Solving
-- Target-Oriented
-- Time Management
-- Communication
-- Teamwork
-
-</div>
-
-</div>
-
-## Let's Connect
+## 🌸 Let's Connect
 
 I am interested in exploring opportunities and collaborations in:
 
-- Digital Marketing
-- Business Operations
-- Business Development
-- E-Commerce & Marketplace Management
-- Sales & Performance Analysis
-- Data Analytics
+Digital Marketing, Business Operations, Business Development, E-Commerce & Marketplace Management, Sales & Performance Analysis, Data Analytics.
 
 <div align="justify">
+
 Always open to learning, collaborating, and creating meaningful business value through digital innovation, strategic marketing, and data-driven strategies.
+
 </div>
 
 <div align="center">
-  <br>
-  <i>"Turning data into insights, strategies into action, and ideas into business growth."</i>
+
+<br>
+
+୨୧ ♡ ୨୧
+
+<i>"Turning data into insights, strategies into action, and ideas into business growth."</i>
+
+<br>
+
+🌸 Thank you for visiting my profile! 🌸
+
 </div>
