@@ -1,7 +1,7 @@
  <div align="center">
   <img src="./banner.svg" width="100%" alt="Nasywa Natania Paramitha"/>
 
-  <h3>Business Operations | Digital Marketing | Data Analysis</h3>
+  <h3>E-Commerce | Online Sales | Digital Marketing | Business Operations</h3>
   <p>Tangerang, Banten, Indonesia</p>
 
   <a href="https://www.linkedin.com/in/nasywanaatania">
@@ -17,11 +17,21 @@
 
 <br>
 
-Business Operations and Digital Marketing professional with hands-on experience in managing food delivery merchant platforms, executing digital marketing campaigns, monitoring sales performance, and handling business administration.
+<div align="justify">
 
-Experienced in managing GoFood, GrabFood, and ShopeeFood merchant accounts, analyzing sales performance, optimizing promotional strategies to improve online business growth, and understanding how marketplace algorithms influence product visibility. Skilled in creating engaging copywriting for menus, promotional offers, and digital campaigns to attract customers and improve conversion. Accustomed to using Google Sheets, Microsoft Excel, and analytical tools to process business data, monitor GMV, evaluate transactions, identify sales trends, and prepare performance reports. Also experienced in external partner negotiation, business collaboration, customer relationship management, and coordinating operational activities to achieve business objectives.
+Experienced in E-Commerce, Online Sales, Digital Channels, and Food Delivery Platforms, with hands-on experience managing merchant accounts across GoFood, GrabFood, and ShopeeFood.
 
-Combine analytical thinking, digital marketing execution, and operational management to support business growth and data-driven decision-making.
+Experienced in executing digital promotions and online marketing strategies within the Retail and Food & Beverage (F&B) industries, including managing promotional campaigns, optimizing merchant visibility, monitoring sales performance, and supporting online business growth.
+
+Familiar with platform-based promotional systems, merchant optimization strategies, and marketplace algorithms that influence product visibility, customer engagement, and sales performance. Skilled in creating engaging copywriting for menus, promotional offers, and digital campaigns to attract customers and improve conversion.
+
+Accustomed to using Google Sheets, Microsoft Excel, and analytical tools to process business data, monitor GMV, evaluate transactions, identify sales trends, and prepare performance reports. Also experienced in external partner negotiation, business collaboration, customer relationship management, and coordinating operational activities to achieve business objectives.
+
+Combining analytical thinking, digital marketing execution, and operational management to support business growth and data-driven decision-making.
+
+</div>
+
+---
 
 ## Currently
 
@@ -32,9 +42,9 @@ Combine analytical thinking, digital marketing execution, and operational manage
 
 ## Core Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+<div style="flex: 1; min-width: 220px;">
 
 **Digital Marketing**
 
@@ -44,8 +54,9 @@ Combine analytical thinking, digital marketing execution, and operational manage
 - Merchant Optimization
 - Marketing Performance Monitoring
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1; min-width: 220px;">
 
 **Business Operations**
 
@@ -55,10 +66,9 @@ Combine analytical thinking, digital marketing execution, and operational manage
 - Product Availability Monitoring
 - Customer Relationship Management
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1; min-width: 220px;">
 
 **Data Analysis**
 
@@ -68,8 +78,9 @@ Combine analytical thinking, digital marketing execution, and operational manage
 - Business Reporting
 - Data Visualization
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1; min-width: 220px;">
 
 **Business Administration**
 
@@ -79,9 +90,9 @@ Combine analytical thinking, digital marketing execution, and operational manage
 - Document Management
 - Operational Reporting
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ## Technical Toolbox
 
@@ -105,14 +116,15 @@ Combine analytical thinking, digital marketing execution, and operational manage
 
 **Bachelor of Sociology (S.Sos.)**
 
-University of Jember (Universitas Jember)  
+University of Jember (Universitas Jember)
+
 April 2020 – June 2025
 
 GPA: **3.80 / 4.00**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+<div style="flex: 1; min-width: 220px;">
 
 **Organizational Activities**
 
@@ -121,8 +133,9 @@ GPA: **3.80 / 4.00**
 - Teaching Assistant (2023)
 - Community Service Program (KKN) Secretary (2023)
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1; min-width: 220px;">
 
 **Relevant Coursework**
 
@@ -133,15 +146,15 @@ GPA: **3.80 / 4.00**
 - Sociology of Communication
 - Community Development
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ## Skills & Competencies
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+<div style="flex: 1; min-width: 220px;">
 
 **Technical Skills**
 
@@ -154,8 +167,9 @@ GPA: **3.80 / 4.00**
 - Financial Administration
 - QGIS
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="flex: 1; min-width: 220px;">
 
 **Professional Skills**
 
@@ -168,9 +182,9 @@ GPA: **3.80 / 4.00**
 - Communication
 - Teamwork
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ## Let's Connect
 
@@ -183,9 +197,11 @@ I am interested in exploring opportunities and collaborations in:
 - Sales & Performance Analysis
 - Data Analytics
 
-Always open to learning, collaborating, and creating meaningful business value through digital innovation and data-driven strategies.
+<div align="justify">
+Always open to learning, collaborating, and creating meaningful business value through digital innovation, strategic marketing, and data-driven strategies.
+</div>
 
 <div align="center">
   <br>
   <i>"Turning data into insights, strategies into action, and ideas into business growth."</i>
-
+</div>
