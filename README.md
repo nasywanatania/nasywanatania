@@ -43,7 +43,6 @@ Combining analytical thinking, digital marketing execution, and operational mana
 ## 🌷 Currently
 
 - Managing multi-platform F&B merchant operations at **RM Sari Rasa**, including GoFood, GrabFood, and ShopeeFood.
-- Co-founding **Open Trip Adventure Salak 2**, focusing on business administration, customer relations, reservations, and operational management.
 - Exploring opportunities in Digital Marketing, Business Development, E-Commerce, and Business Operations.
 - Continuously developing skills in data analysis, sales performance monitoring, and digital business optimization.
 
