@@ -42,7 +42,7 @@ Combining analytical thinking, digital marketing execution, and operational mana
 
 ## 🌷 Currently
 
-- Managing multi-platform F&B merchant operations at **RM Sari Rasa**, including GoFood, GrabFood, and ShopeeFood.
+- Managing multi-platform F&B merchant online including GoFood, GrabFood, and ShopeeFood.
 - Exploring opportunities in Digital Marketing, Business Development, E-Commerce, and Business Operations.
 - Continuously developing skills in data analysis, sales performance monitoring, and digital business optimization.
 
