@@ -19,7 +19,7 @@
 
 Business Operations and Digital Marketing professional with hands-on experience in managing food delivery merchant platforms, executing digital marketing campaigns, monitoring sales performance, and handling business administration.
 
-Experienced in managing GoFood, GrabFood, and ShopeeFood merchant accounts, analyzing sales performance, and optimizing promotional strategies to improve online business growth. Proficient in Microsoft Excel, including Pivot Tables, SUMIFS, VLOOKUP, and sales performance reporting.
+Experienced in managing GoFood, GrabFood, and ShopeeFood merchant accounts, analyzing sales performance, optimizing promotional strategies to improve online business growth, and understanding how marketplace algorithms influence product visibility. Skilled in creating engaging copywriting for menus, promotional offers, and digital campaigns to attract customers and improve conversion. Accustomed to using Google Sheets, Microsoft Excel, and analytical tools to process business data, monitor GMV, evaluate transactions, identify sales trends, and prepare performance reports. Also experienced in external partner negotiation, business collaboration, customer relationship management, and coordinating operational activities to achieve business objectives.
 
 Combine analytical thinking, digital marketing execution, and operational management to support business growth and data-driven decision-making.
 
@@ -32,33 +32,56 @@ Combine analytical thinking, digital marketing execution, and operational manage
 
 ## Core Expertise
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Digital Marketing**
+
 - Digital Campaign Management
 - Online Promotions & Discount Strategies
 - In-App Advertising
 - Merchant Optimization
 - Marketing Performance Monitoring
 
+</td>
+<td width="50%" valign="top">
+
 **Business Operations**
+
 - Merchant Management
 - F&B Business Operations
 - Multi-Outlet Management
 - Product Availability Monitoring
 - Customer Relationship Management
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **Data Analysis**
+
 - Sales Performance Analysis
 - GMV & Transaction Monitoring
 - Sales Trend Analysis
 - Business Reporting
 - Data Visualization
 
+</td>
+<td width="50%" valign="top">
+
 **Business Administration**
+
 - Data Entry & Data Management
 - Financial Administration
 - Bookkeeping & Reconciliation
 - Document Management
 - Operational Reporting
+
+</td>
+</tr>
+</table>
 
 ## Technical Toolbox
 
@@ -87,13 +110,22 @@ April 2020 – June 2025
 
 GPA: **3.80 / 4.00**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Organizational Activities**
-- Public Relations Committee — Department Orientation (2021).
-- Practicum Secretary (2023).
-- Teaching Assistant (2023).
-- Community Service Program (KKN) Secretary (2023).
+
+- Public Relations Committee — Department Orientation (2021)
+- Practicum Secretary (2023)
+- Teaching Assistant (2023)
+- Community Service Program (KKN) Secretary (2023)
+
+</td>
+<td width="50%" valign="top">
 
 **Relevant Coursework**
+
 - Social Statistics
 - Quantitative Research Methods
 - Organizational Sociology
@@ -101,9 +133,18 @@ GPA: **3.80 / 4.00**
 - Sociology of Communication
 - Community Development
 
+</td>
+</tr>
+</table>
+
 ## Skills & Competencies
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Technical Skills**
+
 - Microsoft Excel (Certified)
 - Pivot Tables, SUMIFS, VLOOKUP
 - Sales Performance Analysis
@@ -113,7 +154,11 @@ GPA: **3.80 / 4.00**
 - Financial Administration
 - QGIS
 
+</td>
+<td width="50%" valign="top">
+
 **Professional Skills**
+
 - Analytical Thinking
 - Attention to Detail
 - Data-Driven Decision Making
@@ -122,6 +167,10 @@ GPA: **3.80 / 4.00**
 - Time Management
 - Communication
 - Teamwork
+
+</td>
+</tr>
+</table>
 
 ## Let's Connect
 
