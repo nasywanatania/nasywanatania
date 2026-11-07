@@ -1,7 +1,7 @@
  <div align="center">
   <img src="./banner.svg" width="100%" alt="Nasywa Natania Paramitha"/>
 
-  <h3>E-Commerce | Online Sales | Digital Marketing | Business Operations</h3>
+  <h3>E-Commerce | Data Analysis | Digital Marketing | Business Operations</h3>
   <p>Tangerang, Banten, Indonesia</p>
 
   <a href="https://www.linkedin.com/in/nasywanaatania">
